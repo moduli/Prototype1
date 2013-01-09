@@ -1,0 +1,34 @@
+#map {
+	height: 600px;
+	width: 600px;
+	float: left;
+}
+
+#add_div {
+	float: left;
+	display: none;
+	padding-left: 50px;
+}
+
+.input_error {
+	color: red;
+}
+
+
+#cancelbuttonli {
+	display: none;
+}
+#editbuttonli {
+	display: none;
+}
+#savebuttonli {
+	display: none;
+}
+
+
+.addform {
+	display: none;
+}
+.infoform {
+	display: none;
+}
